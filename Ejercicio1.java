@@ -10,5 +10,6 @@ public class Ejercicio1{
             
         }
         System.out.println("La suma de los dados es de: " + suma);
+        
     }
 }

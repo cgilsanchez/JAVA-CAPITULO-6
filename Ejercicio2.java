@@ -4,6 +4,7 @@ public class Ejercicio2 {
         switch (palos) {
             case 1:
                 
+            
             break;
             case 2:
                 

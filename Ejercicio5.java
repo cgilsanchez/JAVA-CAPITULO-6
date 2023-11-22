@@ -16,7 +16,7 @@ public class Ejercicio5 {
                 mayor = n;
             }
         }
-        System.out.println();
+        System.out.println(0);
         System.out.println("El numero mas grande es: "+ mayor);
         System.out.println("El numero mas pequeño es: "+ menor);
         System.out.println("La media de estos numeros es de: " + suma/50);
